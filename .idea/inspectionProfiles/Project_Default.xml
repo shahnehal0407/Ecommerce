@@ -1,0 +1,48 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="static" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W292" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="GFG.Heap.minHeap.arr" />
+          <option value="firstProject.firstProject.urls.firstapp" />
+          <option value="modelFormsDemo.modelforms.forms.modelforms" />
+          <option value="modelFormsDemo.modelforms.views.modelforms" />
+          <option value="modelFormsDemo.modelFormsDemo.urls.modelforms" />
+          <option value="fbvCRUD.fbvApp.forms.fbvAPP" />
+          <option value="fbvCRUD.fbvApp.views.fbvApp" />
+          <option value="fbvCRUD.fbvCRUD.urls.fbvApp" />
+          <option value="fbvCRUD.fbvApp.views.StudentForm" />
+          <option value="fbvCRUD.fbvApp.views.redirect" />
+          <option value="classBasedViews.classBasedViews.urls.cbvApp" />
+          <option value="cbvCRUD.cbvApp.views.cbvApp" />
+          <option value="cbvCRUD.cbvCRUD.urls.cbvApp" />
+          <option value="cookies.cookies.urls.cookiesApp" />
+          <option value="cookies.cookiesApp.views.forms" />
+          <option value="cookies.cookiesApp.views.cookiesApp" />
+          <option value="sessionAPI.sessionAPI.urls.sessionApp" />
+          <option value="sessionAPI.sessionApp.views.sessionApp" />
+          <option value="sessionAPI.sessionApp.views.forms" />
+          <option value="greatkart.greatkart.settings.BASE_DIR" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
